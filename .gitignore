@@ -1,0 +1,9 @@
+venv/
+checkpoints/model_ir_se50.pth
+models/StyleCLIP/network-snapshot-000200.pt
+models/StyleCLIP_pytorch/pretrained/network-snapshot-000200.pkl
+models/StyleCLIP_pytorch/tensor/W.pt
+models/StyleCLIP_pytorch/tensor/S_std.pt
+models/StyleCLIP_pytorch/tensor/S_mean.pt
+models/StyleCLIP_pytorch/tensor/S.pt
+models/StyleCLIP_pytorch/tensor/fs3network-snapshot-000200.npy
